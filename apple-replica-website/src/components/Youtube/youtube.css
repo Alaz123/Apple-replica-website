@@ -1,0 +1,67 @@
+  /* YoutubeVideos.css
+
+.allVideosWrapper {
+	padding: 20px;
+  }
+  
+  .container {
+	max-width: 1200px;
+	margin: 0 auto;
+  }
+  
+  .row {
+	margin: -15px;
+  }
+  
+  .col-12 {
+	padding: 15px;
+  }
+  
+  .title-wraper {
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 20px;
+  }
+  
+  .singleVideoWrapper {
+	margin-bottom: 20px;
+  }
+  
+  .videoThumbnail img {
+	width: 100%;
+	height: auto;
+  }
+  
+  .videoTitle a {
+	font-size: 18px;
+  }
+  
+  .videoDesc {
+	margin-top: 10px;
+	font-size: 14px;
+  } 
+  
+  */
+
+  .youtubeVideosWrapper {
+    background: #fff;
+    padding: 50px;
+}
+.singleVideoWrapper {
+    background: #f3f2f2;
+    box-shadow: 4px 0 13px hsla(0,0%,62%,.12);
+    margin-bottom: 30px;
+    max-height: 393px;
+    overflow: hidden;
+}
+.videoInfoWrapper {
+    padding: 10px 20px;
+    text-align: left;
+}.videoTitle {
+    font-weight: 700;
+    line-height: 1.2em;
+}
+.videoDesc {
+    color: #676767;
+    font-size: .6em;
+}
