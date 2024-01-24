@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./rate.css";
 
 const Rate = () => {
-  const [value, setValue] = useState(0);
+  const [value, setValue] = useState(5);
 
   const handleRateDown = () => {
     if (value > 0) {
